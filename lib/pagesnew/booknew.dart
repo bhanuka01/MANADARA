@@ -25,7 +25,7 @@ class _BooknewState extends State<Booknew> {
 
   bool isloadfull = false;
   late final InterstitialAd interstitialAd;
-  var interstitialAdUnitId = "ca-app-pub-6429842662800808/3085744287";
+  var interstitialAdUnitId = "ca-app-pub-xxxxxxx/xxxxxxx";
   void _loadInterstitialAd() {
     InterstitialAd.load(
       adUnitId: interstitialAdUnitId,

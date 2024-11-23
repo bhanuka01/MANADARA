@@ -27,11 +27,11 @@ class Homenew extends StatefulWidget {
 class _HomenewState extends State<Homenew> {
   bool isloadad = false;
   late final BannerAd bannerAd;
-  var unitid = "ca-app-pub-6429842662800808/8338070969";
+  var unitid = "ca-app-pub-xxxxxxx/xxxxxxx";
 
   bool isloadfull = false;
   late final InterstitialAd interstitialAd;
-  var interstitialAdUnitId = "ca-app-pub-6429842662800808/3085744287";
+  var interstitialAdUnitId = "ca-app-pub-xxxxxxxx/xxxxxxx";
 
   @override
   void initState() {

@@ -62,7 +62,7 @@ class _ReadnewState extends State<Readnew> {
   final MyController c = Get.put(MyController());
   bool isloadad = false;
   late final BannerAd bannerAd;
-  var unitid = "ca-app-pub-6429842662800808/8338070969";
+  var unitid = "ca-app-pub-xxxxxx/xxxxxxxx";
 
   List<dynamic> users = [];
   bool isDataLoaded = false;
